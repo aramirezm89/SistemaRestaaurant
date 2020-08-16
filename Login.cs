@@ -27,13 +27,13 @@ namespace SistemaResturant
                 SqlCommand cmd = cnn.CreateCommand();
                 cmd.CommandText = "Rest_BuscaUsuario_SP";
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.Add("@in_usuario", txtUsuario.Text);
-                cmd.Parameters.Add("@in_pass", txtPass.Text);
+                cmd.Parameters.AddWithValue("@in_usuario", txtUsuario.Text);
+                cmd.Parameters.AddWithValue("@in_pass", txtPass.Text);
                 SqlDataReader LeerDatos = cmd.ExecuteReader(); //lee lo datos que hay en la tabla SQL
 
                 if ((LeerDatos.Read() == true && LeerDatos["tipo"].Equals("administrador")))
                 {
-                    MessageBox.Show("Bienvenido(a)" + " " + LeerDatos.GetString(1), "Acceso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Bienvenido(a)" + " " + LeerDatos["nombre"], "Acceso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     MenuAdministrador frm = new MenuAdministrador();
                     frm.Show();
                     conexion.CerrarConexion();
