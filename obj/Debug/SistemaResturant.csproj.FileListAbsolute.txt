@@ -1,0 +1,12 @@
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\bin\Debug\SistemaResturant.exe.config
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\bin\Debug\SistemaResturant.exe
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\bin\Debug\SistemaResturant.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.csprojAssemblyReference.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.Login.resources
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.Properties.Resources.resources
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.csproj.GenerateResource.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.exe
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.pdb
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.MenuUsuario.resources
+C:\Users\Antonio\Desktop\AIEP\SEGUNDO AÑO\.NET\MisProgramasC#\SistemaResturant\obj\Debug\SistemaResturant.MenuAdministrador.resources
